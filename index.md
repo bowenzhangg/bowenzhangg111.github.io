@@ -26,7 +26,7 @@ Bachelor of Engineering Degree in Electrical Engineering, expected
 ### RESEARCH INTERESTS
 Taicang Research Institute of Northwestern Polytechnic University
 Research on Electrochromic Film Power System
-Research Assistant; Advisor: Prof. Weilin Li	07/2020-10/2020
+Research Assistant; Advisor: Prof. Weilin Li	 07/2020-10/2020
 - Designed the solar panel maximum power point tracking (MPPT) system and 220V single-ended flyback AC-DC module; completed the automatic switching system of photovoltaic, storage battery and mains.
 - Realized the normality of the half-bridge inverter; obtained the inverter output of an AC 18V symmetrical square wave, which managed to drive the film to work.
 - Developed the prototype of the entire system, successfully achieved all the design goals, and delivered the product to the industry.
