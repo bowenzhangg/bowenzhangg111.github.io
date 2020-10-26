@@ -1,3 +1,18 @@
+#Bowen Zhang
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>Bowen Zhang</h1>
+      <p><b>硕士研究生</b></p>
+      <p><b> (+86)159-6321-3735</b></p>
+      <p><b>Email：zbw2017301026@mail.nwpu.edu.cn</b></p>
+      <p><b>Address：#1 Dongxiang Road, Chang’an District, Xi’an, Shaanxi</b></p>
+    </td>
+    <td width="25%">
+      <img src="/ZHANGBOWEN.jpg" width="100%">      % 插入证件照代码
+    </td>
+  </tr>
+</table>
 ### EDUCATION
 #### Northwestern Polytechnical University, Shaanxi, China
 -Bachelor of Engineering Degree in Electrical Engineering, expected	09/2018-Present
